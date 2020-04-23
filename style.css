@@ -1,8 +1,9 @@
-body {
+	body {
 		font-size: 10px;
 		font-family: arial, sans-serif;
 		text-align: center;
 	}
+	
 	.nav {
 		display: flex;
 		margin-top: 20px;
